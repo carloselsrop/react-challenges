@@ -46,7 +46,6 @@ const Home = () => {
     },
   ])
 
-
   return (
     <div className='w-full h-screen flex justify-center items-center bg-gray-50'>
       <div className='space-y-10 flex flex-col items-center'>
